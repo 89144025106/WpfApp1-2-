@@ -8,9 +8,35 @@
         Title="MainWindow" Height="674.095" Width="800">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="151,106,0,0" VerticalAlignment="Top" Width="75" Height="37"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="258,106,0,0" VerticalAlignment="Top" Width="75" Height="37"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="373,106,0,0" VerticalAlignment="Top" Width="75" Height="37"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="521,106,0,0" VerticalAlignment="Top" Width="75" Height="37"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="262,106,0,0" VerticalAlignment="Top" Width="75" Height="37"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="382,106,0,0" VerticalAlignment="Top" Width="75" Height="37"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="507,106,0,0" VerticalAlignment="Top" Width="75" Height="37"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="152,168,0,0" VerticalAlignment="Top" Width="75" Height="38"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="262,168,0,0" VerticalAlignment="Top" Width="75" Height="38"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="382,168,0,0" VerticalAlignment="Top" Width="75" Height="38"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="505,168,0,0" VerticalAlignment="Top" Width="75" Height="38"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="152,232,0,0" VerticalAlignment="Top" Width="75" Height="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="261,233,0,0" VerticalAlignment="Top" Width="75" Height="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="385,233,0,0" VerticalAlignment="Top" Width="75" Height="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="507,233,0,0" VerticalAlignment="Top" Width="75" Height="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="151,299,0,0" VerticalAlignment="Top" Width="75" Height="32"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="264,296,0,0" VerticalAlignment="Top" Width="73" Height="36" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="3.805"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-1.064"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="385,298,0,0" VerticalAlignment="Top" Width="75" Height="32"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="507,296,0,0" VerticalAlignment="Top" Width="77" Height="32"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="43" Margin="385,355,0,0" VerticalAlignment="Top" Width="195"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="263,359,0,0" VerticalAlignment="Top" Width="75" Height="36"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="36" Margin="151,357,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox HorizontalAlignment="Left" Height="43" Margin="152,46,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="432"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="162,62,0,0" VerticalAlignment="Top" Height="27" Width="74"/>
 
     </Grid>
 </Window>
