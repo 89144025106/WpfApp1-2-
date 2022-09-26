@@ -25,13 +25,60 @@ namespace WpfApp1_Гуляева_практическая_2_Калькулято
             InitializeComponent();
         }
 
+        private void Button5_Click(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = textBox1.Text + 7;
+        }
+
+        private void Button6_Click(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = textBox1.Text + 8;
+        }
+
+        private void Button7_Click(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = textBox1.Text + 9;
+        }
+
+        private void Button9_Click(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = textBox1.Text + 4;
+
+        }
+
+        private void Button10_Click(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = textBox1.Text + 5;
+
+        }
+
+        private void Button11_Click(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = textBox1.Text + 6;
+
+        }
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             textBox1.Text = textBox1.Text + 0;
         }
 
-       
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = textBox1.Text + 2;
+        }
+
+        private void Button14_Click(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = textBox1.Text + 3;
+        }
+
+        private void Button20_Click(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = textBox1.Text + 1;
+        }
     }
     }
+    
     
 
