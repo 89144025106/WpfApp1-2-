@@ -24,5 +24,11 @@ namespace WpfApp1_Гуляева_практическая_2_Калькулято
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            textBox.Text = textBox.Text + 0;
+        }
     }
-}
+    }
+
