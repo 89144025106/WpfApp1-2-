@@ -85,18 +85,17 @@ namespace WpfApp1_Гуляева_практическая_2_Калькулято
 
         private void Button4_Click(object sender, RoutedEventArgs e)
         {
-            {
-                 = float.Parse(textBox1.Text);
-                textBox1.Clear();
-                count = 1;
-                label1.Text = a.ToString() + "+";
-                znak = true;
-
-            }
+            
 
         }
     }
-    }
+        }
+
+        
+
+        
+    
+
     
     
 

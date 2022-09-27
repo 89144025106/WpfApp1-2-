@@ -19,8 +19,8 @@
         <Button x:Name="Button11" Content="6" HorizontalAlignment="Left" Margin="385,233,0,0" VerticalAlignment="Top" Width="75" Height="40" Click="Button11_Click"/>
         <Button x:Name="Button12" Content="*" HorizontalAlignment="Left" Margin="507,233,0,0" VerticalAlignment="Top" Width="75" Height="40"/>
         <Button x:Name="Button14" Content="3" HorizontalAlignment="Left" Margin="385,298,0,0" VerticalAlignment="Top" Width="75" Height="32" Click="Button14_Click"/>
-        <Button x:Name="Button15" Content="/" HorizontalAlignment="Left" Margin="507,296,0,0" VerticalAlignment="Top" Width="77" Height="32"/>
-        <Button x:Name="Button16" Content="=" HorizontalAlignment="Left" Height="43" Margin="385,355,0,0" VerticalAlignment="Top" Width="195"/>
+        <Button x:Name="Button15" Content="/" HorizontalAlignment="Left" Margin="507,296,0,0" VerticalAlignment="Top" Width="77" Height="32" Click="Button15_Click"/>
+        <Button x:Name="Button16" Content="=" HorizontalAlignment="Left" Height="43" Margin="385,355,0,0" VerticalAlignment="Top" Width="195" Click="Button16_Click"/>
         <Button x:Name="Button17" Content="." HorizontalAlignment="Left" Margin="263,359,0,0" VerticalAlignment="Top" Width="75" Height="36" Click="Button17_Click"/>
         <Button x:Name="Button18" Content="0" HorizontalAlignment="Left" Height="36" Margin="151,357,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
         <TextBox x:Name="textBox1"  HorizontalAlignment="Left" Height="43" Margin="151,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="432"/>
